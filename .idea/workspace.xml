@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e333415-7cad-4887-9501-b28f75b2bad7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funk.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/funk/main/java/pl/mmuller/EmailChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/funk/main/java/pl/mmuller/Result$Failure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/funk/main/java/pl/mmuller/Result$Success.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/funk/main/java/pl/mmuller/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mmuller/EmailChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mmuller/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552506909223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552507858252" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
